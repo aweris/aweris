@@ -1,3 +1,4 @@
+[![1500x500](https://user-images.githubusercontent.com/9319656/87766847-0eba0b80-c81a-11ea-835a-e350bc681f41.jpg "Ali AKCA")](https://github.com/aweris)
 <!--
 **aweris/aweris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
